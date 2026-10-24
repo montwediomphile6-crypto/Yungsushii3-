@@ -1,0 +1,8 @@
+{
+  "name": "Remix AI Data Analyst",
+  "description": "AI Studio featuring voice conversations, high-quality video and image generation, image editing, @Higgsfield camera motion templates, and interactive analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
